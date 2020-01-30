@@ -41,8 +41,8 @@ public enum KnownShareServers: String {
          https://github.com/dabear/NightscoutShareServer
     */
 
-    //case CUSTOM="https://nightscoutshareserverd804.azurewebsites.net/"
-    case CUSTOM="https://miriamkw-cgm-shareserver.herokuapp.com/" // This one allows mocked data
+    case CUSTOM="https://nightscoutshareserverd804.azurewebsites.net/"
+    //case CUSTOM="https://miriamkw-cgm-shareserver.herokuapp.com/" // This one allows mocked data
 }
 
 // From the Dexcom Share iOS app, via @bewest and @shanselman:
